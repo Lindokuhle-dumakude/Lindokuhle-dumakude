@@ -37,14 +37,14 @@ Right now, I’m focused on frontend skills like responsive design and UI princi
 ---
 
 ## 📚 Current Focus
-
+``` 
 Responsive design   ✅
 UI principles       ✅
 Writing clean codes ✅
 Getting better at explaining what my code does  ⏳ In progress
 Practicing Git workflows with good commit messages  ⏳ In progress
 JavaScript basics   🔜 Next up!
-
+```
 ---
 
 ## 📫 Let's Connect
