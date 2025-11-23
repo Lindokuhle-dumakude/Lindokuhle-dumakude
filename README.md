@@ -51,6 +51,6 @@ JavaScript basics   🔜 Next up!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lindokuhle-dumakude/)
 - 📧 [Email me](mailto:lindokuhle.dumakude11@gmail.com)
-- 🌐 [My Portfolio] _(coming soon)_
+- 🌐 [My Portfolio](https://lindokuhle-dumakude-portfolio-site.netlify.app/)
 
 ---
