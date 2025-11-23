@@ -49,7 +49,7 @@ JavaScript basics   🔜 Next up!
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lindokuhle-dumakude-173106321/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lindokuhle-dumakude/)
 - 📧 [Email me](mailto:lindokuhle.dumakude11@gmail.com)
 - 🌐 [My Portfolio] _(coming soon)_
 
